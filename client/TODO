@@ -1,0 +1,11 @@
+Server
+-Code cleanup
+-Add listeners to create actions
+-Develop a mode tied to the databaded (direct modification rather than current PUT requests
+-Merge wireless and bluetooth
+-Callback to evaluate type of bluetooth device
+e
+
+Client
+-Stabilize demo mode (not connected to the backend)
+-Create a non-demo mode (connected top the backend)
